@@ -12,6 +12,8 @@ Trong thế chiến thứ 2, sau khi Adolf Hitler phát xít hóa thành công b
 
 Sơ đồ đấu dây của Enigma với các mũi tên và các số từ 1 đến 9 cho biết dòng điện chạy từ điểm nhấn phím đến đèn đang sáng như thế nào. Các Một chìa khóa được mã hóa với D đèn. D sinh ra A, nhưng A không bao giờ sinh ra A; thuộc tính này là do một tính năng được cấp “khóa” duy nhất và có thể bị khai thác bởi các nhà phân tích mật mã trong một số tình huống.
 
+![enigma](https://user-images.githubusercontent.com/77542991/137596518-9353025b-6728-433e-9554-a4d3aaf256b2.gif)
+
 Hãy bắt đầu với thông điệp: 
 + NUMBERPHILE
 
